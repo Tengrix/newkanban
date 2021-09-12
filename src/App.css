@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+ul{
+  list-style-type: none;
+}
+button{
+  color: black;
+}
+.statuses{
+  background-color: cyan;
+}
+.priority{
+  width: 75px;
 }
